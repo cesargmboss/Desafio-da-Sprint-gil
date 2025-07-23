@@ -1,0 +1,12 @@
+Sprint Retrospective
+
+O que funcionou bem:
+-Fazer o código exato pra buscar a cor que mais combina a preferência do cliente
+-Editar o documento HTML pra facilitar o texto que o cliente queria ler com mais facilidade
+
+O que não funcionou bem:
+-Tentar escrever manualmente e ir abrindo html pra ver se estava dando certo
+-Não 
+
+Sugestões de melhoria:
+-Separar a fonte em um arquivo de CSS junto com as outras partes do design da página para facilitar navegação
